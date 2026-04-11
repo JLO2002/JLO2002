@@ -24,5 +24,5 @@
 
 ---
 
-💼 **Open to remote roles in Asia/EU/USA** — Front end Developer, Technical Writer, Software Engineer , Programmer
+💼 **Open to remote roles in Asia/EU/USA** — Web Developer, Technical Writer, Software Engineer, Programmer
 
